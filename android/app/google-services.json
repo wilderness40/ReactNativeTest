@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882236486646",
+    "project_id": "react-test-611f3",
+    "storage_bucket": "react-test-611f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882236486646:android:88c1ba1d72642781490dd7",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--6TLtJFv-6R0096Un_oZMhru5-JLZxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
